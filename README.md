@@ -1,6 +1,3 @@
-# Arrow Functions
+# Advanced Javascript
 
-To use this repository:
-- Click the "Use this template" button in the upper right
-- Choose a name for your repository and create it
-- In your own repository, click the green "Gitpod" button
+This repository is for the practice of advances javascript through CI course.
